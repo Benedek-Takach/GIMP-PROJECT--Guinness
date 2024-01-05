@@ -1,0 +1,4 @@
+Title: Palladio-Bold
+Desc: Zurich-Bold-Condensed-BT
+Sign: Acterum-Signature
+Note: Niva-Small-Caps_light
